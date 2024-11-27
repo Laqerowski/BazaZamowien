@@ -1,4 +1,4 @@
-# BazaZamowien
+# BazaZamówień
 
 ## Opis projektu
 Plik Excel zawiera stworzoną przeze mnie **Bazę Zamówień** produktów, która ma pomóc wprowadzać dane do arkusza. Projekt wykorzystuje makra VBA, aby zautomatyzować procesy związane z obsługą zamówień i zapewnić większą efektywność.
